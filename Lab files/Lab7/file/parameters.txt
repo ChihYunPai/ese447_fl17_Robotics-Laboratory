@@ -1,0 +1,49 @@
+
+A22 =
+ 
+-(5*theta2*theta5)/(- 5*theta3^2 + 5*theta1*theta2)
+ 
+>> A23 =(5*theta3*v2*sin(q2) - 49*theta3*theta4*cos(q2)^2 + 49*theta3*theta4*sin(q2)^2 - 10*q1dot*q2dot*theta2^2*cos(q2)^2 - 5*q1dot^2*theta2*theta3*cos(q2)^3 + 10*q1dot*q2dot*theta2^2*sin(q2)^2 - 5*q2dot*theta3*theta6*sin(q2) + 5*q2dot^2*theta2*theta3*cos(q2) + 10*q1dot^2*theta2*theta3*cos(q2)*sin(q2)^2)/(5*(theta1*theta2 - theta3^2*cos(q2)^2 + theta2^2*sin(q2)^2)) + ((2*cos(q2)*sin(q2)*theta2^2 + 2*cos(q2)*sin(q2)*theta3^2)*(5*theta3*v2*cos(q2) - 5*theta2*v1 + 5*q1dot*theta2*theta5 + 49*theta3*theta4*cos(q2)*sin(q2) - 5*q2dot*theta3*theta6*cos(q2) - 5*q2dot^2*theta2*theta3*sin(q2) + 5*q1dot^2*theta2*theta3*cos(q2)^2*sin(q2) + 10*q1dot*q2dot*theta2^2*cos(q2)*sin(q2)))/(5*(theta2^2*sin(q2)^2 + theta1*theta2 - theta3^2*cos(q2)^2)^2)
+ 
+ 
+A23 =
+ 
+-(49*theta3*theta4)/(- 5*theta3^2 + 5*theta1*theta2)
+ 
+>> A24 =(- 10*q1dot*cos(q2)*sin(q2)*theta2^2 + 10*q2dot*theta3*sin(q2)*theta2 + 5*theta3*theta6*cos(q2))/(5*(theta1*theta2 - theta3^2*cos(q2)^2 + theta2^2*sin(q2)^2))
+ 
+ 
+A24 =
+ 
+(5*theta3*theta6)/(- 5*theta3^2 + 5*theta1*theta2)
+ 
+>> A42 =(5*theta3*theta5*cos(q2) + 10*q1dot*theta2^2*cos(q2)*sin(q2)^3 + 10*q1dot*theta1*theta2*cos(q2)*sin(q2) + 10*q2dot*theta2*theta3*cos(q2)^2*sin(q2))/(5*(theta1*theta2 - theta3^2*cos(q2)^2 + theta2^2*sin(q2)^2))
+ 
+ 
+A42 =
+ 
+(5*theta3*theta5)/(- 5*theta3^2 + 5*theta1*theta2)
+ 
+>> A43 =(49*theta1*theta4*cos(q2) + 5*theta3*v1*sin(q2) - 5*q2dot^2*theta3^2*cos(q2)^2 - 5*q1dot^2*theta2^2*sin(q2)^4 + 5*q2dot^2*theta3^2*sin(q2)^2 + 10*theta2*v2*cos(q2)*sin(q2) + 5*q1dot^2*theta1*theta2*cos(q2)^2 - 5*q1dot^2*theta1*theta2*sin(q2)^2 + 147*theta2*theta4*cos(q2)*sin(q2)^2 + 15*q1dot^2*theta2^2*cos(q2)^2*sin(q2)^2 - 5*q1dot*theta3*theta5*sin(q2) + 10*q1dot*q2dot*theta2*theta3*cos(q2)^3 - 10*q2dot*theta2*theta6*cos(q2)*sin(q2) - 20*q1dot*q2dot*theta2*theta3*cos(q2)*sin(q2)^2)/(5*(theta1*theta2 - theta3^2*cos(q2)^2 + theta2^2*sin(q2)^2)) - ((2*cos(q2)*sin(q2)*theta2^2 + 2*cos(q2)*sin(q2)*theta3^2)*(5*theta1*v2 - 5*theta3*v1*cos(q2) + 49*theta1*theta4*sin(q2) + 49*theta2*theta4*sin(q2)^3 + 5*theta2*v2*sin(q2)^2 - 5*q2dot*theta1*theta6 + 5*q1dot^2*theta2^2*cos(q2)*sin(q2)^3 + 5*q1dot*theta3*theta5*cos(q2) - 5*q2dot^2*theta3^2*cos(q2)*sin(q2) - 5*q2dot*theta2*theta6*sin(q2)^2 + 5*q1dot^2*theta1*theta2*cos(q2)*sin(q2) + 10*q1dot*q2dot*theta2*theta3*cos(q2)^2*sin(q2)))/(5*(theta2^2*sin(q2)^2 + theta1*theta2 - theta3^2*cos(q2)^2)^2)
+ 
+ 
+A43 =
+ 
+(49*theta1*theta4)/(- 5*theta3^2 + 5*theta1*theta2)
+ 
+>> A44 =-(5*theta1*theta6 + 5*theta2*theta6*sin(q2)^2 + 10*q2dot*theta3^2*cos(q2)*sin(q2) - 10*q1dot*theta2*theta3*cos(q2)^2*sin(q2))/(5*(theta1*theta2 - theta3^2*cos(q2)^2 + theta2^2*sin(q2)^2))
+ 
+ 
+A44 =
+ 
+-(5*theta1*theta6)/(- 5*theta3^2 + 5*theta1*theta2)
+
+B2 =
+ 
+theta2/(theta1*theta2 - theta3^2*cos(q2)^2 + theta2^2*sin(q2)^2)
+ 
+>> B4
+ 
+B4 =
+ 
+-(theta3*cos(q2))/(theta1*theta2 - theta3^2*cos(q2)^2 + theta2^2*sin(q2)^2)
